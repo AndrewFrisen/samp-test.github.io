@@ -1,0 +1,18 @@
+[
+    {
+        "name": "SanTrope RP №1",
+        "host": "51.83.146.10:7777"
+    },
+    {
+        "name": "SanTrope RP №2",
+        "host": "51.83.146.10:8888"
+    },
+    {
+        "name": "SanTrope RP №3",
+        "host": "51.83.146.11:7777"
+    },
+    {
+        "name": "SanTrope RP №4 [VOICE]",
+        "host": "54.38.142.49:7777"
+    }
+]

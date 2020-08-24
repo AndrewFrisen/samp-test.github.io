@@ -1,0 +1,32 @@
+﻿{
+    "news": [
+        {
+            "title": "News Last",
+            "content": "Content News Last",
+            "date": "01-09-2019",
+            "image": null,
+            "image_id": null
+        },
+        {
+            "title": "News 3 здарова",
+            "content": "Content News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3\nContent News 3",
+            "date": "01-09-2019",
+            "image": "http://santrope-download.react.group/test/1.jpg",
+            "image_id": "1"
+        },
+        {
+            "title": "News 2",
+            "content": "Content News 2",
+            "date": "01-09-2019",
+            "image": null,
+            "image_id": null
+        },
+        {
+            "title": "News 1",
+            "content": "Content News 1",
+            "date": "01-09-2019",
+            "image": "http://santrope-download.react.group/test/1.jpg",
+            "image_id": "1"
+        }
+    ]
+}

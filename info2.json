@@ -1,0 +1,13 @@
+{
+    	"URL_CLIENT" : "http://santrope-download.react.group/st/cl/client8.zip" ,
+    	"URL_FILES" : "http://santrope-download.react.group/st/upd/upd-all.zip" ,
+    	"URL_LITE_CACHE" : "http://santrope-download.react.group/st/gm/lite-cache.zip" ,
+    	"URL_FULL_CACHE" : "http://santrope-download.react.group/st/gm/full_cache.zip" ,    
+	"URL_GAME_SETTINGS" : "http://santrope-download.react.group/st/gm/gta_sa.set" ,
+	"URL_INSTALL_MODPACK" : "",
+	"URL_DELETE_MODPACK" : "",    	
+	"URL_UPD" : "http://145.239.133.5/upd2.json",
+	"URL_NEWS" : "http://145.239.133.5/news2.json",
+	"URL_LAUNCHER": "http://santrope-download.react.group/st/ln/st-laun1.5.zip",
+	"URL_TEST_CLIENT": "http://santrope-download.react.group/st/cl/client8.zip"
+}

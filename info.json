@@ -1,0 +1,7 @@
+{
+    "URL_CLIENT" : "http://santrope-download.react.group/client1.zip" ,
+    "URL_FILES" : "http://santrope-download.react.group/upd_1.zip" ,
+    "URL_LITE_CACHE" : "http://santrope-download.react.group/lite_cache.zip" ,
+    "URL_FULL_CACHE" : "http://santrope-download.react.group/full_cache.zip" ,
+    "URL_UPD" : "http://145.239.133.5/upd.json"
+}
